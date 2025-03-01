@@ -1,0 +1,10 @@
+c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\bin\Debug\Form Mahasiswaa.exe.config
+c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\bin\Debug\Form Mahasiswaa.exe
+c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\bin\Debug\Form Mahasiswaa.pdb
+c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\bin\Debug\Form Mahasiswaa.xml
+c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form_Mahasiswaa.Form1.resources
+c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form_Mahasiswaa.Resources.resources
+c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form Mahasiswaa.vbproj.GenerateResource.Cache
+c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form Mahasiswaa.exe
+c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form Mahasiswaa.xml
+c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form Mahasiswaa.pdb
