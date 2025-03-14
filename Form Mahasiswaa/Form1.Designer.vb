@@ -35,6 +35,15 @@ Partial Class Form2
         Me.rbl = New System.Windows.Forms.RadioButton()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.rbp = New System.Windows.Forms.RadioButton()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.txttugas = New System.Windows.Forms.TextBox()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.txtuts = New System.Windows.Forms.TextBox()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.txtuas = New System.Windows.Forms.TextBox()
+        Me.Label12 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
@@ -107,7 +116,7 @@ Partial Class Form2
         '
         'btnprocess
         '
-        Me.btnprocess.Location = New System.Drawing.Point(138, 217)
+        Me.btnprocess.Location = New System.Drawing.Point(31, 285)
         Me.btnprocess.Name = "btnprocess"
         Me.btnprocess.Size = New System.Drawing.Size(75, 23)
         Me.btnprocess.TabIndex = 8
@@ -153,11 +162,94 @@ Partial Class Form2
         Me.rbp.Text = "Perempuan"
         Me.rbp.UseVisualStyleBackColor = True
         '
-        'Form1
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Location = New System.Drawing.Point(28, 227)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(34, 13)
+        Me.Label7.TabIndex = 13
+        Me.Label7.Text = "NILAI"
+        '
+        'txttugas
+        '
+        Me.txttugas.Location = New System.Drawing.Point(158, 220)
+        Me.txttugas.Name = "txttugas"
+        Me.txttugas.Size = New System.Drawing.Size(81, 20)
+        Me.txttugas.TabIndex = 14
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(119, 227)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(37, 13)
+        Me.Label8.TabIndex = 15
+        Me.Label8.Text = "Tugas"
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(250, 227)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(29, 13)
+        Me.Label9.TabIndex = 16
+        Me.Label9.Text = "UTS"
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(259, 154)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(0, 13)
+        Me.Label10.TabIndex = 17
+        '
+        'txtuts
+        '
+        Me.txtuts.Location = New System.Drawing.Point(285, 220)
+        Me.txtuts.Name = "txtuts"
+        Me.txtuts.Size = New System.Drawing.Size(81, 20)
+        Me.txtuts.TabIndex = 18
+        '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.Location = New System.Drawing.Point(394, 227)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(29, 13)
+        Me.Label11.TabIndex = 19
+        Me.Label11.Text = "UAS"
+        '
+        'txtuas
+        '
+        Me.txtuas.Location = New System.Drawing.Point(429, 220)
+        Me.txtuas.Name = "txtuas"
+        Me.txtuas.Size = New System.Drawing.Size(81, 20)
+        Me.txtuas.TabIndex = 20
+        '
+        'Label12
+        '
+        Me.Label12.AutoSize = True
+        Me.Label12.Location = New System.Drawing.Point(548, 227)
+        Me.Label12.Name = "Label12"
+        Me.Label12.Size = New System.Drawing.Size(51, 13)
+        Me.Label12.TabIndex = 21
+        Me.Label12.Text = "-GRADE-"
+        '
+        'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(444, 261)
+        Me.ClientSize = New System.Drawing.Size(686, 320)
+        Me.Controls.Add(Me.Label12)
+        Me.Controls.Add(Me.txtuas)
+        Me.Controls.Add(Me.Label11)
+        Me.Controls.Add(Me.txtuts)
+        Me.Controls.Add(Me.Label10)
+        Me.Controls.Add(Me.Label9)
+        Me.Controls.Add(Me.Label8)
+        Me.Controls.Add(Me.txttugas)
+        Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.rbp)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.rbl)
@@ -171,7 +263,7 @@ Partial Class Form2
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Name = "Form1"
+        Me.Name = "Form2"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
         Me.PerformLayout()
@@ -190,5 +282,14 @@ Partial Class Form2
     Friend WithEvents rbl As System.Windows.Forms.RadioButton
     Friend WithEvents Label6 As System.Windows.Forms.Label
     Friend WithEvents rbp As System.Windows.Forms.RadioButton
+    Friend WithEvents Label7 As System.Windows.Forms.Label
+    Friend WithEvents txttugas As System.Windows.Forms.TextBox
+    Friend WithEvents Label8 As System.Windows.Forms.Label
+    Friend WithEvents Label9 As System.Windows.Forms.Label
+    Friend WithEvents Label10 As System.Windows.Forms.Label
+    Friend WithEvents txtuts As System.Windows.Forms.TextBox
+    Friend WithEvents Label11 As System.Windows.Forms.Label
+    Friend WithEvents txtuas As System.Windows.Forms.TextBox
+    Friend WithEvents Label12 As System.Windows.Forms.Label
 
 End Class
