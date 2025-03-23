@@ -7,4 +7,4 @@ c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Maha
 c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form Mahasiswaa.exe
 c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form Mahasiswaa.xml
 c:\users\a c e r\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form Mahasiswaa.pdb
-C:\Users\A C E R\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form_Mahasiswaa.Form2.resources
+C:\Users\A C E R\documents\visual studio 2013\Projects\Form Mahasiswaa\Form Mahasiswaa\obj\Debug\Form_Mahasiswaa.Form1.resources
